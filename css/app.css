@@ -18,6 +18,10 @@ img {
   width: 100%;
 }
 
+p {
+  text-align: center;
+}
+
 .nav-links {
   display: flex;
   justify-content: space-evenly;
