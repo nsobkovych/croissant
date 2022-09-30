@@ -1,12 +1,25 @@
+body {
+  background: rgb(255, 241, 214);
+}
+
 h1 {
   text-align: center;
+}
+
+a {
+  text-decoration: none;
+  padding: 10px 15px;
+  background: rgb(25, 145, 197);
+  color: white;
+  border-radius: 4px;
+}
+
+img {
+  width: 100%;
 }
 
 .nav-links {
   display: flex;
   justify-content: space-evenly;
-}
-
-img {
-  width: 100%;
+  margin-bottom: 20px;
 }
